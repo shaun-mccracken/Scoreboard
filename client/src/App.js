@@ -1,22 +1,22 @@
 import React from 'react';
 import './App.css';
-import Nfl from './components/nfl';
-import Ncaaf from './components/ncaaf';
+import Scores from './components/scores';
 //import ReactDOM from "react-dom";
 import {
   BrowserRouter as Switch,
   Route
 } from "react-router-dom";
 
+
 function App() {
   return (
     <div className="App">
       <Switch>
-        <Route path="/nfl">
-          <Nfl />
-        </Route>
         <Route path="/ncaaf">
-          <Ncaaf />
+          <Scores sport="football" league="college-football"/>
+        </Route>
+        <Route path="/nfl">
+          <Scores sport="football" league="nfl"/>
         </Route>
       </Switch>
     </div>
