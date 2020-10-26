@@ -1,0 +1,1882 @@
+{
+"leagues": [
+{
+"id": "10",
+"uid": "s:1~l:10",
+"name": "Major League Baseball",
+"abbreviation": "MLB",
+"midsizeName": "MLB",
+"slug": "mlb",
+"season": {
+"year": 2020,
+"startDate": "2020-01-14T08:00Z",
+"endDate": "2020-10-30T06:59Z",
+"type": {
+"id": "3",
+"type": 3,
+"name": "Postseason",
+"abbreviation": "post"
+}
+},
+"calendarType": "day",
+"calendarIsWhitelist": false,
+"calendarStartDate": "2020-01-14T08:00Z",
+"calendarEndDate": "2020-10-30T06:59Z",
+"calendar": [
+"2020-01-14T08:00Z",
+"2020-01-15T08:00Z",
+"2020-01-16T08:00Z",
+"2020-01-17T08:00Z",
+"2020-01-18T08:00Z",
+"2020-01-19T08:00Z",
+"2020-01-20T08:00Z",
+"2020-01-21T08:00Z",
+"2020-01-22T08:00Z",
+"2020-01-23T08:00Z",
+"2020-01-24T08:00Z",
+"2020-01-25T08:00Z",
+"2020-01-26T08:00Z",
+"2020-01-27T08:00Z",
+"2020-01-28T08:00Z",
+"2020-01-29T08:00Z",
+"2020-01-30T08:00Z",
+"2020-01-31T08:00Z",
+"2020-02-01T08:00Z",
+"2020-02-02T08:00Z",
+"2020-02-03T08:00Z",
+"2020-02-04T08:00Z",
+"2020-02-05T08:00Z",
+"2020-02-06T08:00Z",
+"2020-02-07T08:00Z",
+"2020-02-08T08:00Z",
+"2020-02-09T08:00Z",
+"2020-02-10T08:00Z",
+"2020-02-11T08:00Z",
+"2020-02-12T08:00Z",
+"2020-02-13T08:00Z",
+"2020-02-14T08:00Z",
+"2020-02-15T08:00Z",
+"2020-02-16T08:00Z",
+"2020-02-17T08:00Z",
+"2020-02-18T08:00Z",
+"2020-02-19T08:00Z",
+"2020-02-20T08:00Z",
+"2020-03-13T07:00Z",
+"2020-03-14T07:00Z",
+"2020-03-15T07:00Z",
+"2020-03-16T07:00Z",
+"2020-03-17T07:00Z",
+"2020-03-18T07:00Z",
+"2020-03-19T07:00Z",
+"2020-03-20T07:00Z",
+"2020-03-21T07:00Z",
+"2020-03-22T07:00Z",
+"2020-03-23T07:00Z",
+"2020-03-24T07:00Z",
+"2020-03-25T07:00Z",
+"2020-03-26T07:00Z",
+"2020-03-27T07:00Z",
+"2020-03-28T07:00Z",
+"2020-03-29T07:00Z",
+"2020-03-30T07:00Z",
+"2020-03-31T07:00Z",
+"2020-04-01T07:00Z",
+"2020-04-02T07:00Z",
+"2020-04-03T07:00Z",
+"2020-04-04T07:00Z",
+"2020-04-05T07:00Z",
+"2020-04-06T07:00Z",
+"2020-04-07T07:00Z",
+"2020-04-08T07:00Z",
+"2020-04-09T07:00Z",
+"2020-04-10T07:00Z",
+"2020-04-11T07:00Z",
+"2020-04-12T07:00Z",
+"2020-04-13T07:00Z",
+"2020-04-14T07:00Z",
+"2020-04-15T07:00Z",
+"2020-04-16T07:00Z",
+"2020-04-17T07:00Z",
+"2020-04-18T07:00Z",
+"2020-04-19T07:00Z",
+"2020-04-20T07:00Z",
+"2020-04-21T07:00Z",
+"2020-04-22T07:00Z",
+"2020-04-23T07:00Z",
+"2020-04-24T07:00Z",
+"2020-04-25T07:00Z",
+"2020-04-26T07:00Z",
+"2020-04-27T07:00Z",
+"2020-04-28T07:00Z",
+"2020-04-29T07:00Z",
+"2020-04-30T07:00Z",
+"2020-05-01T07:00Z",
+"2020-05-02T07:00Z",
+"2020-05-03T07:00Z",
+"2020-05-04T07:00Z",
+"2020-05-05T07:00Z",
+"2020-05-06T07:00Z",
+"2020-05-07T07:00Z",
+"2020-05-08T07:00Z",
+"2020-05-09T07:00Z",
+"2020-05-10T07:00Z",
+"2020-05-11T07:00Z",
+"2020-05-12T07:00Z",
+"2020-05-13T07:00Z",
+"2020-05-14T07:00Z",
+"2020-05-15T07:00Z",
+"2020-05-16T07:00Z",
+"2020-05-17T07:00Z",
+"2020-05-18T07:00Z",
+"2020-05-19T07:00Z",
+"2020-05-20T07:00Z",
+"2020-05-21T07:00Z",
+"2020-05-22T07:00Z",
+"2020-05-23T07:00Z",
+"2020-05-24T07:00Z",
+"2020-05-25T07:00Z",
+"2020-05-26T07:00Z",
+"2020-05-27T07:00Z",
+"2020-05-28T07:00Z",
+"2020-05-29T07:00Z",
+"2020-05-30T07:00Z",
+"2020-05-31T07:00Z",
+"2020-06-01T07:00Z",
+"2020-06-02T07:00Z",
+"2020-06-03T07:00Z",
+"2020-06-04T07:00Z",
+"2020-06-05T07:00Z",
+"2020-06-06T07:00Z",
+"2020-06-07T07:00Z",
+"2020-06-08T07:00Z",
+"2020-06-09T07:00Z",
+"2020-06-10T07:00Z",
+"2020-06-11T07:00Z",
+"2020-06-12T07:00Z",
+"2020-06-13T07:00Z",
+"2020-06-14T07:00Z",
+"2020-06-15T07:00Z",
+"2020-06-16T07:00Z",
+"2020-06-17T07:00Z",
+"2020-06-18T07:00Z",
+"2020-06-19T07:00Z",
+"2020-06-20T07:00Z",
+"2020-06-21T07:00Z",
+"2020-06-22T07:00Z",
+"2020-06-23T07:00Z",
+"2020-06-24T07:00Z",
+"2020-06-25T07:00Z",
+"2020-06-26T07:00Z",
+"2020-06-27T07:00Z",
+"2020-06-28T07:00Z",
+"2020-06-29T07:00Z",
+"2020-06-30T07:00Z",
+"2020-07-01T07:00Z",
+"2020-07-02T07:00Z",
+"2020-07-03T07:00Z",
+"2020-07-04T07:00Z",
+"2020-07-05T07:00Z",
+"2020-07-06T07:00Z",
+"2020-07-07T07:00Z",
+"2020-07-08T07:00Z",
+"2020-07-09T07:00Z",
+"2020-07-10T07:00Z",
+"2020-07-11T07:00Z",
+"2020-07-12T07:00Z",
+"2020-07-13T07:00Z",
+"2020-07-14T07:00Z",
+"2020-07-15T07:00Z",
+"2020-07-16T07:00Z",
+"2020-07-17T07:00Z",
+"2020-09-28T07:00Z",
+"2020-10-03T07:00Z",
+"2020-10-04T07:00Z",
+"2020-10-10T07:00Z",
+"2020-10-19T07:00Z",
+"2020-10-22T07:00Z",
+"2020-10-26T07:00Z",
+"2020-10-29T07:00Z"
+]
+}
+],
+"season": {
+"type": 3,
+"year": 2020
+},
+"day": {
+"date": "2020-10-25"
+},
+"events": [
+{
+"id": "401246391",
+"uid": "s:1~l:10~e:401246391",
+"date": "2020-10-26T00:08Z",
+"name": "Los Angeles Dodgers at Tampa Bay Rays",
+"shortName": "LAD @ TB",
+"season": {
+"year": 2020,
+"type": 3
+},
+"competitions": [
+{
+"id": "401246391",
+"uid": "s:1~l:10~e:401246391~c:401246391",
+"date": "2020-10-26T00:08Z",
+"attendance": 0,
+"type": {
+"id": "17",
+"abbreviation": "FINAL"
+},
+"timeValid": true,
+"neutralSite": true,
+"conferenceCompetition": false,
+"recent": false,
+"wasSuspended": false,
+"venue": {
+"id": "231",
+"fullName": "Globe Life Field",
+"address": {
+"city": "Arlington",
+"state": "Texas"
+},
+"capacity": 40000,
+"indoor": false
+},
+"competitors": [
+{
+"id": "30",
+"uid": "s:1~l:10~t:30",
+"type": "team",
+"order": 0,
+"homeAway": "home",
+"team": {
+"id": "30",
+"uid": "s:1~l:10~t:30",
+"location": "Tampa Bay",
+"name": "Rays",
+"abbreviation": "TB",
+"displayName": "Tampa Bay Rays",
+"shortDisplayName": "Rays",
+"color": "002454",
+"alternateColor": "8fbce6",
+"isActive": true,
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/_/name/tb/tampa-bay-rays",
+"text": "Clubhouse",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"roster",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/roster/_/name/tb/tampa-bay-rays",
+"text": "Roster",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"stats",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/stats/_/name/tb/tampa-bay-rays",
+"text": "Statistics",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"schedule",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/schedule/_/name/tb",
+"text": "Schedule",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"photos",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/photos/_/name/tb",
+"text": "photos",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"scores",
+"sportscenter",
+"app",
+"team"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:10~t:30&section=scores",
+"text": "Scores",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"transactions",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/transactions/_/name/tb",
+"text": "Transactions",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"injuries",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/injuries/_/name/tb",
+"text": "Injuries",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"depthchart",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/depth/_/name/tb",
+"text": "Depth Chart",
+"isExternal": false,
+"isPremium": false
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+},
+"score": "0",
+"probables": [
+{
+"name": "probableStartingPitcher",
+"displayName": "Probable Starting Pitcher",
+"shortDisplayName": "Starter",
+"abbreviation": "SP",
+"playerId": 33190,
+"athlete": {
+"id": "33190",
+"fullName": "Tyler Glasnow",
+"displayName": "Tyler Glasnow",
+"shortName": "T. Glasnow",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/33190"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/33190/tyler-glasnow"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/33190/tyler-glasnow"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/33190/tyler-glasnow"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/33190/tyler-glasnow"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/33190/tyler-glasnow"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/33190/tyler-glasnow"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/33190/tyler-glasnow"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33190.png",
+"jersey": "20",
+"position": "SP",
+"team": {
+"id": "30"
+}
+},
+"statistics": [
+{
+"name": "saves",
+"abbreviation": "SV",
+"displayValue": "0"
+},
+{
+"name": "losses",
+"abbreviation": "L",
+"displayValue": "1"
+},
+{
+"name": "wins",
+"abbreviation": "W",
+"displayValue": "0"
+},
+{
+"name": "ERA",
+"abbreviation": "ERA",
+"displayValue": "12.46"
+}
+]
+}
+],
+"statistics": [
+{
+"name": "hits",
+"abbreviation": "H",
+"displayValue": "470",
+"rankDisplayValue": "19th"
+},
+{
+"name": "runs",
+"abbreviation": "R",
+"displayValue": "289",
+"rankDisplayValue": "12th"
+},
+{
+"name": "avg",
+"abbreviation": "AVG",
+"displayValue": ".238",
+"rankDisplayValue": "21st"
+},
+{
+"name": "saves",
+"abbreviation": "SV",
+"displayValue": "23",
+"rankDisplayValue": "1st"
+},
+{
+"name": "losses",
+"abbreviation": "L",
+"displayValue": "20",
+"rankDisplayValue": "29th"
+},
+{
+"name": "wins",
+"abbreviation": "W",
+"displayValue": "40",
+"rankDisplayValue": "2nd"
+},
+{
+"name": "ERA",
+"abbreviation": "ERA",
+"displayValue": "3.56",
+"rankDisplayValue": "3rd"
+},
+{
+"name": "errors",
+"abbreviation": "E",
+"displayValue": "33",
+"rankDisplayValue": "Tied-17th"
+}
+],
+"hits": 0,
+"errors": 0,
+"records": [
+{
+"name": "All Splits",
+"abbreviation": "Total",
+"type": "total",
+"summary": "40-20"
+},
+{
+"name": "Home",
+"abbreviation": "Home",
+"type": "home",
+"summary": "20-9"
+},
+{
+"name": "Away",
+"abbreviation": "AWAY",
+"type": "road",
+"summary": "20-11"
+}
+],
+"leaders": [
+{
+"name": "avg",
+"displayName": "BATTING AVERAGE",
+"shortDisplayName": "BA",
+"abbreviation": "AVG",
+"leaders": [
+{
+"displayValue": ".269",
+"value": 0.2694300413131714,
+"athlete": {
+"id": "39961",
+"fullName": "Brandon Lowe",
+"displayName": "Brandon Lowe",
+"shortName": "B. Lowe",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/39961"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/39961/brandon-lowe"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39961.png",
+"jersey": "8",
+"position": {
+"abbreviation": "2B"
+},
+"team": {
+"id": "30"
+},
+"active": true
+},
+"team": {
+"id": "30"
+}
+}
+]
+},
+{
+"name": "homeRuns",
+"displayName": "Home Runs",
+"shortDisplayName": "HR",
+"abbreviation": "HR",
+"leaders": [
+{
+"displayValue": "14",
+"value": 14,
+"athlete": {
+"id": "39961",
+"fullName": "Brandon Lowe",
+"displayName": "Brandon Lowe",
+"shortName": "B. Lowe",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/39961"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/39961/brandon-lowe"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39961.png",
+"jersey": "8",
+"position": {
+"abbreviation": "2B"
+},
+"team": {
+"id": "30"
+},
+"active": true
+},
+"team": {
+"id": "30"
+}
+}
+]
+},
+{
+"name": "RBIs",
+"displayName": "RUNS BATTED IN",
+"shortDisplayName": "RBI",
+"abbreviation": "RBI",
+"leaders": [
+{
+"displayValue": "37",
+"value": 37,
+"athlete": {
+"id": "39961",
+"fullName": "Brandon Lowe",
+"displayName": "Brandon Lowe",
+"shortName": "B. Lowe",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/39961"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/39961/brandon-lowe"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39961.png",
+"jersey": "8",
+"position": {
+"abbreviation": "2B"
+},
+"team": {
+"id": "30"
+},
+"active": true
+},
+"team": {
+"id": "30"
+}
+}
+]
+},
+{
+"name": "MLBRating",
+"displayName": "MLB Rating",
+"shortDisplayName": "MLB",
+"abbreviation": "MLB",
+"leaders": [
+{
+"displayValue": "249.8",
+"value": 249.75,
+"athlete": {
+"id": "39961",
+"fullName": "Brandon Lowe",
+"displayName": "Brandon Lowe",
+"shortName": "B. Lowe",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/39961"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/39961/brandon-lowe"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/39961/brandon-lowe"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/39961.png",
+"jersey": "8",
+"position": {
+"abbreviation": "2B"
+},
+"team": {
+"id": "30"
+},
+"active": true
+},
+"team": {
+"id": "30"
+}
+}
+]
+}
+]
+},
+{
+"id": "19",
+"uid": "s:1~l:10~t:19",
+"type": "team",
+"order": 1,
+"homeAway": "away",
+"team": {
+"id": "19",
+"uid": "s:1~l:10~t:19",
+"location": "Los Angeles",
+"name": "Dodgers",
+"abbreviation": "LAD",
+"displayName": "Los Angeles Dodgers",
+"shortDisplayName": "Dodgers",
+"color": "00337f",
+"alternateColor": "a2aaad",
+"isActive": true,
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/_/name/lad/los-angeles-dodgers",
+"text": "Clubhouse",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"roster",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/roster/_/name/lad/los-angeles-dodgers",
+"text": "Roster",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"stats",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/stats/_/name/lad/los-angeles-dodgers",
+"text": "Statistics",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"schedule",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/schedule/_/name/lad",
+"text": "Schedule",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"photos",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/photos/_/name/lad",
+"text": "photos",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"scores",
+"sportscenter",
+"app",
+"team"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:1~l:10~t:19&section=scores",
+"text": "Scores",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"transactions",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/transactions/_/name/lad",
+"text": "Transactions",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"injuries",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/injuries/_/name/lad",
+"text": "Injuries",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"depthchart",
+"desktop",
+"team"
+],
+"href": "http://www.espn.com/mlb/team/depth/_/name/lad",
+"text": "Depth Chart",
+"isExternal": false,
+"isPremium": false
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+},
+"score": "0",
+"probables": [
+{
+"name": "probableStartingPitcher",
+"displayName": "Probable Starting Pitcher",
+"shortDisplayName": "Starter",
+"abbreviation": "SP",
+"playerId": 28963,
+"athlete": {
+"id": "28963",
+"fullName": "Clayton Kershaw",
+"displayName": "Clayton Kershaw",
+"shortName": "C. Kershaw",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/28963"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/28963/clayton-kershaw"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/28963/clayton-kershaw"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/28963/clayton-kershaw"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/28963/clayton-kershaw"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/28963/clayton-kershaw"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/28963/clayton-kershaw"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/28963/clayton-kershaw"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/28963.png",
+"jersey": "22",
+"position": "SP",
+"team": {
+"id": "19"
+}
+},
+"statistics": [
+{
+"name": "saves",
+"abbreviation": "SV",
+"displayValue": "0"
+},
+{
+"name": "losses",
+"abbreviation": "L",
+"displayValue": "0"
+},
+{
+"name": "wins",
+"abbreviation": "W",
+"displayValue": "1"
+},
+{
+"name": "ERA",
+"abbreviation": "ERA",
+"displayValue": "1.50"
+}
+]
+}
+],
+"statistics": [
+{
+"name": "hits",
+"abbreviation": "H",
+"displayValue": "523",
+"rankDisplayValue": "Tied-7th"
+},
+{
+"name": "runs",
+"abbreviation": "R",
+"displayValue": "349",
+"rankDisplayValue": "1st"
+},
+{
+"name": "avg",
+"abbreviation": "AVG",
+"displayValue": ".256",
+"rankDisplayValue": "11th"
+},
+{
+"name": "saves",
+"abbreviation": "SV",
+"displayValue": "15",
+"rankDisplayValue": "Tied-11th"
+},
+{
+"name": "losses",
+"abbreviation": "L",
+"displayValue": "17",
+"rankDisplayValue": "30th"
+},
+{
+"name": "wins",
+"abbreviation": "W",
+"displayValue": "43",
+"rankDisplayValue": "1st"
+},
+{
+"name": "ERA",
+"abbreviation": "ERA",
+"displayValue": "3.02",
+"rankDisplayValue": "1st"
+},
+{
+"name": "errors",
+"abbreviation": "E",
+"displayValue": "40",
+"rankDisplayValue": "Tied-7th"
+}
+],
+"hits": 0,
+"errors": 0,
+"records": [
+{
+"name": "All Splits",
+"abbreviation": "Total",
+"type": "total",
+"summary": "43-17"
+},
+{
+"name": "Home",
+"abbreviation": "Home",
+"type": "home",
+"summary": "21-9"
+},
+{
+"name": "Away",
+"abbreviation": "AWAY",
+"type": "road",
+"summary": "22-8"
+}
+],
+"leaders": [
+{
+"name": "avg",
+"displayName": "BATTING AVERAGE",
+"shortDisplayName": "BA",
+"abbreviation": "AVG",
+"leaders": [
+{
+"displayValue": ".307",
+"value": 0.3066037595272064,
+"athlete": {
+"id": "32691",
+"fullName": "Corey Seager",
+"displayName": "Corey Seager",
+"shortName": "C. Seager",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/32691"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/32691/corey-seager"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32691.png",
+"jersey": "5",
+"position": {
+"abbreviation": "SS"
+},
+"team": {
+"id": "19"
+},
+"active": true
+},
+"team": {
+"id": "19"
+}
+}
+]
+},
+{
+"name": "homeRuns",
+"displayName": "Home Runs",
+"shortDisplayName": "HR",
+"abbreviation": "HR",
+"leaders": [
+{
+"displayValue": "16",
+"value": 16,
+"athlete": {
+"id": "30699",
+"fullName": "A.J. Pollock",
+"displayName": "A.J. Pollock",
+"shortName": "A.J. Pollock",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/30699"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/30699/aj-pollock"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/30699/aj-pollock"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/30699/aj-pollock"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/30699/aj-pollock"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/30699/aj-pollock"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/30699/aj-pollock"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/30699/aj-pollock"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/30699.png",
+"jersey": "11",
+"position": {
+"abbreviation": "CF"
+},
+"team": {
+"id": "19"
+},
+"active": true
+},
+"team": {
+"id": "19"
+}
+}
+]
+},
+{
+"name": "RBIs",
+"displayName": "RUNS BATTED IN",
+"shortDisplayName": "RBI",
+"abbreviation": "RBI",
+"leaders": [
+{
+"displayValue": "41",
+"value": 41,
+"athlete": {
+"id": "32691",
+"fullName": "Corey Seager",
+"displayName": "Corey Seager",
+"shortName": "C. Seager",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/32691"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/32691/corey-seager"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/32691/corey-seager"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/32691.png",
+"jersey": "5",
+"position": {
+"abbreviation": "SS"
+},
+"team": {
+"id": "19"
+},
+"active": true
+},
+"team": {
+"id": "19"
+}
+}
+]
+},
+{
+"name": "MLBRating",
+"displayName": "MLB Rating",
+"shortDisplayName": "MLB",
+"abbreviation": "MLB",
+"leaders": [
+{
+"displayValue": "292.5",
+"value": 292.5,
+"athlete": {
+"id": "33039",
+"fullName": "Mookie Betts",
+"displayName": "Mookie Betts",
+"shortName": "M. Betts",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "https://www.espn.com/mlb/player/_/id/33039"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/stats/_/id/33039/mookie-betts"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/splits/_/id/33039/mookie-betts"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/gamelog/_/id/33039/mookie-betts"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/news/_/id/33039/mookie-betts"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/bio/_/id/33039/mookie-betts"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/_/id/33039/mookie-betts"
+},
+{
+"rel": [
+"batvspitch",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/mlb/player/batvspitch/_/id/33039/mookie-betts"
+}
+],
+"headshot": "https://a.espncdn.com/i/headshots/mlb/players/full/33039.png",
+"jersey": "50",
+"position": {
+"abbreviation": "RF"
+},
+"team": {
+"id": "19"
+},
+"active": true
+},
+"team": {
+"id": "19"
+}
+}
+]
+}
+]
+}
+],
+"notes": [
+{
+"type": "event",
+"headline": "World Series - Game 5"
+}
+],
+"status": {
+"clock": 0,
+"displayClock": "0:00",
+"period": 1,
+"type": {
+"id": "1",
+"name": "STATUS_SCHEDULED",
+"state": "pre",
+"completed": false,
+"description": "Scheduled",
+"detail": "Sun, October 25th at 8:08 PM EDT",
+"shortDetail": "10/25 - 8:08 PM EDT"
+}
+},
+"broadcasts": [
+{
+"market": "national",
+"names": [
+"FOX"
+]
+}
+],
+"tickets": [
+{
+"summary": "Tickets as low as $394",
+"numberAvailable": 442,
+"links": [
+{
+"href": "https://www.vividseats.com/mlb-baseball/world-series-tickets/world-series-10-25-3530522.html?wsUser=717"
+},
+{
+"href": "https://www.vividseats.com/venues/globe-life-field-tickets.html?wsUser=717"
+}
+]
+}
+],
+"startDate": "2020-10-26T00:08Z",
+"series": {
+"type": "playoff",
+"title": "Playoff Series",
+"summary": "Series tied 2-2",
+"completed": false,
+"totalCompetitions": 7
+},
+"geoBroadcasts": [
+{
+"type": {
+"id": "1",
+"shortName": "TV"
+},
+"market": {
+"id": "1",
+"type": "National"
+},
+"media": {
+"shortName": "FOX"
+},
+"lang": "en",
+"region": "us"
+},
+{
+"type": {
+"id": "5",
+"shortName": "Radio"
+},
+"market": {
+"id": "1",
+"type": "National"
+},
+"media": {
+"shortName": "ESPNRM"
+},
+"lang": "en",
+"region": "us"
+}
+],
+"odds": [
+{
+"provider": {
+"id": "38",
+"name": "Caesars (New Jersey)",
+"priority": 1
+},
+"details": "LAD -162",
+"overUnder": 8
+},
+{
+"provider": {
+"id": "1004",
+"name": "consensus",
+"priority": 0
+},
+"details": "LAD -162",
+"overUnder": 8,
+"awayTeamOdds": {
+"winPercentage": 74,
+"favorite": true,
+"underdog": false,
+"moneyLine": -162,
+"spreadOdds": -101,
+"team": {
+"id": "19",
+"uid": "s:1~l:10~t:19",
+"abbreviation": "LAD",
+"displayName": "Los Angeles Dodgers",
+"logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+}
+},
+"homeTeamOdds": {
+"winPercentage": 26,
+"favorite": false,
+"underdog": true,
+"moneyLine": 142,
+"spreadOdds": -119,
+"team": {
+"id": "30",
+"uid": "s:1~l:10~t:30",
+"abbreviation": "TB",
+"displayName": "Tampa Bay Rays",
+"logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+}
+}
+},
+{
+"provider": {
+"id": "1003",
+"name": "numberfire",
+"priority": 0
+},
+"details": "LAD -160",
+"overUnder": 8,
+"awayTeamOdds": {
+"averageScore": 4,
+"winPercentage": 50.39,
+"favorite": true,
+"underdog": false,
+"moneyLine": -160,
+"moneyLineReturn": -0.181,
+"spreadOdds": 38.6,
+"spreadReturn": -0.228,
+"team": {
+"id": "19",
+"uid": "s:1~l:10~t:19",
+"abbreviation": "LAD",
+"displayName": "Los Angeles Dodgers",
+"logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+}
+},
+"homeTeamOdds": {
+"averageScore": 3.75,
+"winPercentage": 49.61,
+"favorite": false,
+"underdog": true,
+"moneyLine": 138,
+"moneyLineReturn": 0.181,
+"spreadOdds": 61.4,
+"spreadReturn": 0.134,
+"team": {
+"id": "30",
+"uid": "s:1~l:10~t:30",
+"abbreviation": "TB",
+"displayName": "Tampa Bay Rays",
+"logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+}
+}
+},
+{
+"provider": {
+"id": "1002",
+"name": "teamrankings",
+"priority": 0
+},
+"details": "LAD -157",
+"overUnder": 8,
+"awayTeamOdds": {
+"averageScore": 4.3,
+"favorite": true,
+"underdog": false,
+"moneyLine": -157,
+"spreadRecord": {
+"wins": 44,
+"losses": 30,
+"pushes": 0,
+"summary": "44-30"
+},
+"spreadOdds": 103,
+"team": {
+"id": "19",
+"uid": "s:1~l:10~t:19",
+"abbreviation": "LAD",
+"displayName": "Los Angeles Dodgers",
+"logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png"
+}
+},
+"homeTeamOdds": {
+"averageScore": 3.6,
+"favorite": false,
+"underdog": true,
+"moneyLine": 144,
+"spreadRecord": {
+"wins": 39,
+"losses": 37,
+"pushes": 0,
+"summary": "39-37"
+},
+"spreadOdds": -113,
+"team": {
+"id": "30",
+"uid": "s:1~l:10~t:30",
+"abbreviation": "TB",
+"displayName": "Tampa Bay Rays",
+"logo": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png"
+}
+}
+}
+]
+}
+],
+"links": [
+{
+"language": "en-US",
+"rel": [
+"summary",
+"desktop",
+"event"
+],
+"href": "http://www.espn.com/mlb/game?gameId=401246391",
+"text": "Gamecast",
+"shortText": "Gamecast",
+"isExternal": false,
+"isPremium": false
+}
+],
+"status": {
+"clock": 0,
+"displayClock": "0:00",
+"period": 1,
+"type": {
+"id": "1",
+"name": "STATUS_SCHEDULED",
+"state": "pre",
+"completed": false,
+"description": "Scheduled",
+"detail": "Sun, October 25th at 8:08 PM EDT",
+"shortDetail": "10/25 - 8:08 PM EDT"
+}
+}
+}
+]
+}
